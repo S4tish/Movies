@@ -1,0 +1,11 @@
+/* Filters.css */
+.filters {
+    margin: 20px 0;
+    text-align: center;
+  }
+  
+  .filters select {
+    padding: 5px 10px;
+    font-size: 16px;
+  }
+  
